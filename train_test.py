@@ -1,4 +1,4 @@
-""" Training and testing of the MoAGL-AM
+""" Training and testing of the MoAGL-SA
 """
 import os
 import random
